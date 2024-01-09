@@ -1,0 +1,17 @@
+body {
+    padding:3rem;
+}
+
+.hover:hover{
+    cursor: pointer;
+    border-bottom: 0.5px solid black;
+    margin-bottom:0 ;
+}
+
+.not-selected{
+    color:rgb(136, 135, 135);
+}
+
+i:hover{
+  cursor: pointer;
+}
